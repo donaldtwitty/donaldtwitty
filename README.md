@@ -1,1 +1,1 @@
-![LinkedInBanner_2.png](..%2F..%2FDesktop%2FMy%20Documents%2FCodeup%2FPlacement%2FLinkedInBanner_2.png)
+<img src="img/LinkedInBanner_2.png">
